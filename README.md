@@ -1,4 +1,4 @@
-# clase_06
+# Entrega 03
 
 ## Project setup
 ```
